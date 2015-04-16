@@ -16,12 +16,14 @@ So you can learn numbers like 1 or 4  fr chords G and C respectively in the key 
 | ~            |                              1/2 beat rest                              |
 NOTE: the rest symbols are just to help song learners know when to come in as in most chord sheets 
 this is not shown. Eg in this part or Breathe:
+```
 |1             |4
  --~This is the air I breathe
 |1             |4
  --~This is the air I breathe
- 
- The words start on beat 3 + semi quaver rest
+ ```
+
+ In the above case, the words start on beat 3 + semi quaver rest
  
 
 ###road map
