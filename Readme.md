@@ -14,16 +14,15 @@ So you can learn numbers like 1 or 4  fr chords G and C respectively in the key 
 | <page break> | This specifies a reader to display this in the next column of a viewer. |
 | -            |                               1 beat rest                               |
 | ~            |                              1/2 beat rest                              |
+|()            |                              Contains notes ie (some note in here)      |
 NOTE: the rest symbols are just to help song learners know when to come in as in most chord sheets 
 this is not shown. Eg in this part or Breathe:
-```
 |1             |4
  --~This is the air I breathe
 |1             |4
  --~This is the air I breathe
- ```
-
- In the above case, the words start on beat 3 + semi quaver rest
+ 
+ The words start on beat 3 + semi quaver rest
  
 
 ###road map

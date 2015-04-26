@@ -2,14 +2,14 @@ Intro 8x  Dm      |   Bbmaj7 |   Gm      |Dm   C
 
 
 VERSE:
-(    I           VIM7       IV       I    7 )
+    |1          |6M7       |4       |1    7 )
     |Dm         |Bbmaj7    |Gm      |Dm   C
  All honour, all glory, all power to You;
      III        IM7        VI          III       )
      Dm         Bbmaj7     Gm          Dm
  All honour, all glory, all power to You.
 
-CHORUS:
+ CHORUS:
 (     7            1
      |C2        |Dm
  Holy Father, we worship You,
