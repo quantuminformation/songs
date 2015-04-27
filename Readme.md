@@ -14,7 +14,7 @@ So you can learn numbers like 1 or 4  fr chords G and C respectively in the key 
 | <page break> | This specifies a reader to display this in the next column of a viewer. |
 | -            |                               1 beat rest                               |
 | ~            |                              1/2 beat rest                              |
-|()            |                              Contains notes ie (some note in here)      |
+|()            |                              Contains words not in counting eg  feel would be in the 3rd beat: --(To)feel the warmth      |
 NOTE: the rest symbols are just to help song learners know when to come in as in most chord sheets 
 this is not shown. Eg in this part or Breathe:
 |1             |4

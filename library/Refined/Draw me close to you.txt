@@ -1,0 +1,47 @@
+Intro:
+| |
+ 1 4 x2
+
+Easy play in G Major 1=G, 4=C, 5=D
+
+VERSE 1
+
+|1                  |4/1R
+ --Draw me close to you
+|5/R           |1
+ --Never let me go
+|5/3           |4/3
+ --I lay it all down again
+|3m7         3/7       |4             4/2
+ --To hear you say that I'm your friend
+
+VERSE 2
+|1           |4/R
+ --You are my desire
+|5/R               |1
+ --No one else will do
+|5/3                       |4/3
+ --Cause nothing else could take your place
+|6m7   5                 |4
+ --(To)feel the warmth of your embrace
+|1/R5              |4/R5 54              |1   |4/3 5/3
+ --Help me find the way, bring me back to you
+
+CHORUS:
+|G       D      |C
+ -You're all I w-ant
+|G       D      |C   D
+ -You're all I e-ver needed
+|G       D      |C
+ -You're all I w-ant
+|D                    |G
+ -Help me know you are near
+
+Notes:
+Speed 90 Bpm
+
+MJS plays this in Bb here: https://www.youtube.com/watch?v=7d_oYr-P16M
+verse words start on beat 3 ie, --I lay it all..
+
+Solo___
+Play on Piano, with simple drum beat
