@@ -1,25 +1,29 @@
-1   5        4      5
+12   5        4      5
 A2  E        D2     Esus
 All heaven declares,
-
+                 4     1
                  D     A
 The glory of the risen Lord.
+    12     4   5
     A2     D   E
 Who can compare,
+                4      1
                 D      A
 With the beauty of the Lord.
-
+                          42  5
                           D2  E
      Forever He(You) will be,
                        1      5/3  6
                        A      E/G# F#m
      The Lamb upon the throne.
+                      42    57sus
                       D2    E7sus
      I gladly bow the knee,
+                          1     4  1
                           A     D  A
      And worship Him(You) alone.
 <page break>
-
+1  5       4     5sus
 A2 E       D2    Esus
 I  will proclaim,
                  D     A

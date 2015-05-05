@@ -1,7 +1,10 @@
+1    4
 C#   F#
 Oh happy day
+         1    6M7
          C#   Bb7
 Oh happy day
+
            D#m7    G#
 When Jesus washed
            D#m7    G#

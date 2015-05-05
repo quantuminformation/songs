@@ -1,5 +1,9 @@
+Amajor
+
+1       5            6              5         4
 A       E            F#m            E         D
 My Jesus, my Savior, Lord there is none like You.
+           1   4            1
            A    D           A
 All of my days, I want to praise
     F#m              G  D   E
