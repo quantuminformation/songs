@@ -1,48 +1,57 @@
-E  A2  E  A2
-I  IV2 I  IV2
+Work in progress
+
+Key of E Major:
+Guitar easier in G Major
+
+ 1   42   1  42
+|E  |A2  |E  A2
+
 Intro
 
-(I          IV                 )
- There is a higher throne
-(V              E               )
-  Than all this world has known
-(      C#m                IV            )
- Where faithful ones from every tongue
-(II           V       )
- Will one day come
-(E          IV                  )
+|1           |4
+ There is a h-igher throne
+|5              |1
+ -Than all this world has known
+|       6                  4
+ -Where faithful ones from every tongue
+
+|2           5
+ -Will one day come
+|1          4
  Before the Son we'll stand
-(V               I  )
-  Made faultless through the Lamb
-(VI                 A         )
- Believing hearts find promised grace
- F#m         B
+|5               I
+ -Made faultless through the Lamb
+|5                |4         )
+ Believing hearts f-ind promised grace
+ 2         5
  Salvation comes
 
 CHORUS:
 
-(I/3           IV             )
- Hear heaven's voices sing
-B                 I           E/D#
- Their thunderous anthem rings
-         VI                IV
+|1/3             |4
+ -Hear heaven's v-oices sing
+|5                 1           1/7
+ -Their thunderous anthem rings
+|        6                IV
  Through emerald courts and sapphire skies
-F#m            B
- Their praises rise
-E/G#       A
- All glory wisdom power
-(V                   I     I/7  )
+|F#m             |B
+ -Their praises r-ise
+E/G#      |A
+-All glory wisdom power
+(V                  |I     I/7  )
  Strength thanks and honor are
-    C#m     C#m/B    A
+    C#m     C#m/B   |A
  To God our King who reigns on high
-(II  V    I)
- For-ever more
+|2   5    |1
+ -For-ever more
 
 (E)  A2  E  A2
 
-<page break>
- E                 A2/E
-2. And there we'll find our home
+ <page break>
+
+ Verse 2
+|1                 42/5
+ -And there we'll find our home
  B/D#          E              E/D#
    Our life be-fore the throne
          C#m       C#m/B A           A/G#
