@@ -1,71 +1,47 @@
-1st verse:
-D         D
-Oooh Lord, my God
-D        A      G
-Why I in awesome wonder
-G          A
-Considered all
-   A           A          D
-The world thy hands have made
-   D        D
-I see the stars
-   D          A       G
-I hear the rolling thunder
-  G          A
-Thy power throughout
-   G       A      D
-The universe displayed
+Elvis sings this in C major
+
+
+
+Intro: 1, 1sus
+
+Verse 1:
+          |1            |4/5            4#dim
+O Lord my God, When I in awesome wonder,
+        |1                  5/3      |1
+consider all the Worlds Thy hand hath made.
+         |1                4/5
+I see the stars, I hear the rolling thunder
+               1            5/3     1
+Thy pow'r throughout the universe displayed
+
+Verse 2
+                  1                    4/5
+When Christ shall come, with shouts of acclamation
+            G                   D/F#      G
+And take me home, what joy shall fill my heart
+              G             4/5
+Then I shall bow in humble adoration
+             1                  5/3#       1
+And there proclaim, My God, how great You are!
+
 Chorus:
-  D         D
-Then sings my soul
-A        G       D
-My savior God to thee
- D             A
-How great thou art
- A             D
-How great thou art
- D           D
-Then sings my soul
-A        G       D
-My savior God to thee
- D            Em
-How great thou art
- A             D
-How great thou art
-(Repeat Intro)
-(*The rest of the song is an octave higher, so move the capo down to the
-fourth fret*)
-2nd Verse:
-  D              D
-When Christ shall come
-  D          A       G
-With shouts of acclaimation
-  G          A
-And take me home
-  A                      D
-What joy shall fill my heart
-  D           D
-Then I shall bow
-  D     A     G
-In humble adoration
-  G           A       G         A           D
-And there proclaim, my God, how great thou art
-Chorus:
- D            D
-Then sings my soul
-A        G       D
-My savior God to thee
-D              A
-How great thou art
-A             D
-How great thou art
- D             D
-Then sings my soul
-A        G       D
-My savior God to thee
-A              Em
-How great thou art
-A              Bm   A   G
-How great thou art
-  A            Em     A
-How great thou art
+               1        4/5         1
+Then sings my soul, my Savior God, to Thee
+               2m7                 1
+How great Thou art! How great Thou art!
+                      4/5             1
+Then sings my soul, my Savior God, to Thee
+               2m7    4/5            1
+How great Thou art! How great Thou art!
+
+OPTIONAL VERSE
+
+           G                  C/G
+And when I think that God, His Son not sparing
+             G                D/F#    G
+Sent Him to die, I scarce can take it in
+               G              C/G
+That on the cross, my burden gladly bearing
+             G            D/F#    G
+He bled and died to take away my sin
+(Chorus)
