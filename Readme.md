@@ -4,6 +4,9 @@ A parser will be created to improve user experience.
 
 ###Chord notation
 
+I use the Nashville number system see:
+http://www.kyleoneal.com/wp-content/uploads/2009/08/Intro-to-the-Nashville-Number-System.pdf
+
 In order to be able to transpose songs its useful to be able to know the chord in relation to the key.
 So you can learn numbers like 1 or 4  fr chords G and C respectively in the key of G major, see "Above all powers song"
 

@@ -1,43 +1,46 @@
 Elvis & the Stamps Quartet - Why me Lord
+Timing 3/3
+key G
 
-Intro - A - E - B7 - E - B7
+        4   1   57   1   57
+Intro - C - G - D7 - C - D7
 
 (verse 1)
-         E                     A
-Why me Lord, what have I ever done
-                 E                         B7
-To deserve even one Of the pleasures I've known
-          E                   A                        E
-Tell me Lord, what did I ever do That was worth loving you
-         B7              E - E7
-Or the kindness you've shown.
+         |1                     |4
+Why me Lo-rd, what have I ever d-one
+      |           |1           |              |57   |
+To des-erve even o-ne Of the pl-easures I've k-nown
+          |1           |        |4                        |1
+Tell me Lo-rd, what did I ever d-o That was worth loving y-ou
+         |57              |1 - 17
+Or the ki-ndness you've sh-own.
 
 
 (chorus)
- A                         E
-Lord help me Jesus, I've wasted it so Help me
- B7                 E - E7
-Jesus I know what I am
- A                         E
-Now that I know that I've need you so Help me
- B7                        E - B7
+ |4            |             |1      |
+L-ord help me J-esus, I've wa-sted it so Help me
+ |57       |         |1 - 17
+J-esus I kn-ow what I am    |
+ |4          |             |1         |
+N-ow that I k-now that I've needed you so Help me
+ |57                       |1 - |57
+J-esus, my soul's in your h-and.
++2nd time (finish)
+ 57                        4 - 1
 Jesus, my soul's in your hand.
+
 (chorus)
 <page break>
+
 (verse 2)
-Tell me Lord, if you think there's a way
-I can try to repay All I've taken from you
-Maybe Lord, I can show someone else
-What I've been through myself On my way back to you.
+          |1                           |4
+try? me Lo-rd, if you think there's a w-ay
+       |            |1         |              |57   |
+I can e-ver to repay All I've taken from y-ou
+        |1           |        |4                        |1
+Maybe Lo-rd, I can show someone else
+         |57                                     |1   | 17
+What I've been through myself On my way back to y-ou.
 
 
- A                         E
-Lord help me Jesus, I've wasted it so Help me
- B7                 E - E7
-Jesus I know what I am
- A                         E
-Now that I know that I've need you so Help me
- B7                        E - B7
-Jesus, my soul's in your hand.
- B7                        A - E
-Jesus, my soul's in your hand.
+chorus

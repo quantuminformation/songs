@@ -1,17 +1,16 @@
 intro: G, C, G, D (x2)
 
-(I      IV     I                   V     )
-G      C      G                   D
-I’m forgiven, because you were forsaken
-(I      IV     I                   V     )
- G      C      G            D
- I’m accepted, you were condemned
-G    C                     G            D
-I’m alive and well, you’re spirit is within me
-C            D             G
-Because you died and rose again
+|1      4      1                    |5
+|G      C      G                    |D
+ -I’m forgiven, because you were for -saken
+ 1      IV     I                   V     )
+ G      C      G            |5
+ I’m accepted, you were cond-emned
+|1    4                     1            5
+ -I’m alive and well, you’re spirit is within me
+C            D             |G
+Because you died and rose a-gain
 
-(I      IV     I                   V     )
 
  G             C              G
  Amazing love, how can it be
