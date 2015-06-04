@@ -1,15 +1,15 @@
 Intro:
 
-|Fm  |Ab |Cm |Bbm         x2
+|Fm       |Ab       |Cm           |Bbm         x2
 
 Verse:
-|Fm       |Ab      |Cm          |Bbm
- --Lord of all I bow down at your feet
 |Fm       |Ab       |Cm          |Bbm
- --All  to You Lord I give, all of me
+ --Lord of all I bow down at your feet
+|Fm      |Ab        |Cm          |Bbm
+ --All to You Lord I give, all of me
 |Fm       |Ab         |Cm          |Bbm
- --My soul long   to be-hold who you are
-|Db      |Eb
+ --my soul longs to be-hold who you are
+|Db       |Eb
  --Veil is torn
 
 chorus:
@@ -19,7 +19,7 @@ chorus:
 we lift our v-oice and sing, to Y-ou our King
 |Fm                   |Ab
  Worthy, You alone are Worthy,
-             |Cm                 |       Bbm
+             |Cm                 |       Bbm |
 we lift our v-oice and sing, to Y-ou our King
 
 Go back to Verse and Reff

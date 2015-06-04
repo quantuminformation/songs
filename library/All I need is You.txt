@@ -1,15 +1,14 @@
 Capo: 2
 Intro: Em   Am  C  D  Em  G  Asus  D
 
-|Em                  |Am
-|1                   |4
+|Em                  /Am
+|1                   /4
  Left my fear by the  side of the road
 |C                 |D
-|6                 |7
+|6                 /7
  Hear You speak You won’t let go
 |Em                      G                Asus  D
 |6                      |1                2Msus 5
-
  Fall to my knees, as I lift my hands to pray
 |6                      |2
  Got every reason to be  here again

@@ -7,7 +7,7 @@ Intro - C - G - D7 - C - D7
 
 (verse 1)
          |1                     |4
-Why me Lo-rd, what have I ever d-one
+Why me Lo-rd, what have I ever d-one           V7
       |           |1           |              |57   |
 To des-erve even o-ne Of the pl-easures I've k-nown
           |1           |        |4                        |1
@@ -39,7 +39,7 @@ try? me Lo-rd, if you think there's a w-ay
 I can e-ver to repay All I've taken from y-ou
         |1           |        |4                        |1
 Maybe Lo-rd, I can show someone else
-         |57                                     |1   | 17
+         |57                                     |1   | 1M7
 What I've been through myself On my way back to y-ou.
 
 
