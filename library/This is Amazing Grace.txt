@@ -46,7 +46,7 @@ Verse:
 |Em                  |D                          C
  ~The King of Glory,  ~the King above all kings
 
-Bridge: (optional 6 bar rest)
+Bridge: x4 (optional 6 bar rest)
 G                           |
 Worthy is the Lamb who was s-lain
 C                       |
@@ -55,5 +55,7 @@ Em                           |
 Worthy is the Lamb who was sl-ain
 C
 Worthy is the King who conquered the grave
+
+chorus x2
 
 1x2  4x2
