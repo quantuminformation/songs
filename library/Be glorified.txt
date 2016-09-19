@@ -1,22 +1,15 @@
 key of c
-
+4/4
 
 Verse 1
- 1  5  6     3     2      5     2        5
- C  G  Am    Em    Dm     G     Dm       G
-In my Life, Lord, be glorified, be glorified.
- 1  5  6    3      2         5      1
- C  G  Am    Em    Dm        G      C
-In my Life, Lord, be glorified, today.
+ |1  5  |6      3   |2        5    |2         5
+I-n my L-ife, L-ord, be glorif-ied, be glorif-ied.
+ |1  5  |6      3   |2        5       |1
+I-n my L-ife, L-ord, be glorif-ied, to-day.
 
-Verse 2
- 1  5  6     3     2      5     2        5
-In my song, Lord, be glorified, be glorified.
- 1  5  6    3      2         5      1
-In my song, Lord, be glorified, today.
+x2
 
-Verse 3
- 1  5  6     3     2      5     2        5
-In your church, Lord, be glorified, be glorified.
- 1  5  6    3      2         5      1
-In your church, Lord, be glorified, today.
+In my heart, Lord, be glorified, be glorified.
+In my heart, Lord, be glorified, today.
+
+sing with background https://www.youtube.com/watch?v=cz-xtWWUs3c

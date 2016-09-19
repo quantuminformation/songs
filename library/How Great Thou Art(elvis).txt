@@ -1,15 +1,13 @@
-Elvis sings this in C major
-
-
+How great thou art
 
 Intro: 1, 1sus
 
 Verse 1:
-          |1            |4/5            4#dim
-O Lord my God, When I in awesome wonder,
-        |1                  5/3      |1
+           |1            |4/3
+O Lord my G-od, When I in awesome wonder,
+        |1        5/3                 |1
 consider all the Worlds Thy hand hath made.
-         |1                4/5
+         |1                4/3
 I see the stars, I hear the rolling thunder
                1            5/3     1
 Thy pow'r throughout the universe displayed
@@ -17,27 +15,28 @@ Thy pow'r throughout the universe displayed
 Verse 2
                   1                    4/5
 When Christ shall come, with shouts of acclamation
-            1                         G
-And take me home, what joy shall fill my heart
+            1          5                   |1
+And take me home, what joy shall fill my he-art
               G             4/5
 Then I shall bow in humble adoration
              1                  5/3#       1
 And there proclaim, My God, how great You are!
 
 Chorus:
-               1        4/5         1
-Then sings my soul, my Savior God, to Thee
-               2m7                 1
+               |1        4/5             |1
+Then sings my s-oul, my Savior God, to Th-ee
+               2m7                |1
 How great Thou art! How great Thou art!
-                      4/5             1
-Then sings my soul, my Savior God, to Thee
+                        |4/5             1
+Then sings my soul, my S-avior God, to Thee
                2m7    4/5            1
 How great Thou art! How great Thou art!
 
+
 OPTIONAL VERSE
 
-           G                  C/G
-And when I think that God, His Son not sparing
+             |1
+And when I th-ink that God, His Son not sparing
              G                D/F#    G
 Sent Him to die, I scarce can take it in
                G              C/G
@@ -45,3 +44,8 @@ That on the cross, my burden gladly bearing
              G            D/F#    G
 He bled and died to take away my sin
 (Chorus)
+
+Notes
+
+
+Elvis sings this in C major
