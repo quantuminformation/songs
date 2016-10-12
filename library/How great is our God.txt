@@ -1,27 +1,27 @@
 C major is good
 
-  1                    6m7
-The splendor of the King, clothed in majesty,
-                    42
-Let all the earth rejoice, all the earth rejoice.
-   1                          |6m7
-He wraps Himself in light, and darkness tries to hide,
-      |              42                      |
-And tr-embles at his voice, trembles at his v-oice.
+  1    |             |        |6m7
+The spl-endor of the K-ing, cl-othed in majesty,
+                     |42                      |
+Let all the earth rej-oice, all the earth rejo-ice.
+     }1                          |6m7
+He wr-aps Himself in light, and d-arkness tries to hide,
+      |                |42                     |
+And tr-embles at his vo-ice, trembles at his vo-ice.
 
 
 Chorus:
-   |1                   5/3
-How great is our God, sing with me,
-    6m7
-How great is our God, all will see,
-    4           5            1
-How great, how great is our God.
+       |1          |     5/3
+How gre-at is our G-od, sing with me,
+       |6m7        |
+How gre-at is our G-od, all will see,
+       |4         |5           |1
+How gre-at, how gr-eat is our G-od.
 
 Verse 2:
  1                        6m7
 Age to age He stands, and time is in His hands,
-                  C2
+                  |42
 Beginning and the end, beginning and the end.
      1                     6m7
 The Godhead, three in one: Father, Spirit, Son,
@@ -34,10 +34,10 @@ Bridge:
 Name above all names,
  6m7
 Worthy of all praise,
-   4
-My heart will sing
-    5             1
-How great is our God.
+     |4
+My he-art will sing
+       |5          |1
+How gre-at is our G-od.
 
 in C
 https://youtu.be/n-Te5cxdfaA?t=89
