@@ -1,20 +1,27 @@
+Best in C major
 
-
+|C        |G            |C7            |F
 |1        |5            |17            |4
  -I am a n-ew c-reation, -no more in c-ondemnation
 |1             |4       5      |C   G
  -Here in the g-race of God I s-tand.
+|1           |5           |17
 |C           |G           |C7
  -My heart is overflowing, -my love just keeps on growing,
 |C             |F       G     |
+|1             |4       5     |
  -Here in the g-race of God I  stand.
 
+          |       4 5  1              |  4     5   1
           |       F G  C              |  F     G   C
 And I will praise You Lord, yes I will praise You Lord,
+           |6       4                 |5
            |Am      F                 |G
 And I will  sing of all that You have d-one.
+|1          |5                  |17
 |C          |G                  |C7
  -A joy that knows no limit, a l-ightness in my spirit,
+|1            5        5      |1
 |C            G        G      |C
  -Here in the grace of God I s-tand.
 
