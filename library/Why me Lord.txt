@@ -1,4 +1,3 @@
-Elvis & the Stamps Quartet - Why me Lord
 Timing 3/3
 key G
 
@@ -45,5 +44,8 @@ What I've been through myself On my way back to y-ou.
 
 chorus
 
-YouTube in key of G
+YouTube in key of G kris kristofferson
 https://www.youtube.com/watch?v=g2u_rEcWW8M
+
+RAW
+https://raw.githubusercontent.com/QuantumInformation/worship-songs/master/library/Why%20me%20Lord.txt
