@@ -2,18 +2,18 @@ D major
 
 intro G D---- x4
 
-4   1          4
-G ||D          G     |D          G    |D          G
-The Lord reigns, the  Lord reigns, the Lord reigns,
-G       Em      D              Em      D
-Let the earth rejoice, let the earth rejoice,
+4    1      4
+G    |D    |G           |D    |G           |D    |G
+The L-ord r-eigns, the L-ord r-eigns, the L-ord r-eigns,
+G       Em       D               |Em       D
+Let the earth re-joice, let the e-arth rej-oice,
         G       A
 Let the earth rejoice
-                 |G  D  Em    A      |D
-Let the people be glad   that our God reigns.
+                 |G  D | Em    A       |D
+Let the people be glad   that our God r-eigns.
   5
-  A           D2sus  D
-A fire goes before  Him
+   |A           |D2sus  D
+A f-ire goes bef-ore  Him
    |A               |D2sus  D
 And burns up all His ene---mies;
     A              |D
@@ -27,8 +27,8 @@ The heavens declare His righteousness;
 The people see His glo---ry,
    |A                 D
 For You, O Lord, are exalted
-     G      |A                   |
-Over all the earth, over all the earth.
+     G        |A                   |
+Over all the e-arth, over all the earth.
 
 RAW:
 https://raw.githubusercontent.com/QuantumInformation/worship-songs/master/library/The%20Lord%20reigns.txt
