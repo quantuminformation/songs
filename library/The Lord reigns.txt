@@ -5,17 +5,17 @@ intro G D---- x4
 4    1      4
 G    |D    |G           |D    |G           |D    |G
 The L-ord r-eigns, the L-ord r-eigns, the L-ord r-eigns,
-G       Em       D               |Em       D
+G       Em      |D                Em      |D
 Let the earth re-joice, let the e-arth rej-oice,
-        G       A
-Let the earth rejoice
-                 |G  D | Em    A       |D
-Let the people be glad   that our God r-eigns.
+        G       |A
+Let the earth re-joice
+|                     |G  D | Em    A       |D
+ -Let the people be gl-ad   that our God r-eigns.
   5
    |A           |D2sus  D
 A f-ire goes bef-ore  Him
-   |A               |D2sus  D
-And burns up all His ene---mies;
+   |A                 |D2sus  D
+And burns up all His e-nemies;
     A              |D
 The hills melt like wax
        G              |A

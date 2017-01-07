@@ -6,9 +6,9 @@ Best in C major
 |1             |4       5      |C   |G
  -Here in the g-race of God I s-tand.
 |1           |5           |17
-|C           |G           |C7?            |
+|C           |G           |C7?            |F
  -My heart is overflowing, -my love just k-eeps on growing,
-|C             |F       G        |
+|C             |F       G        |C
 |1             |4       5        |
  -Here in the g-race of God I  st-and.
 
@@ -19,7 +19,7 @@ And I will pr-aise You L-ord, yes I will pr-aise You L-ord,
            |Am       |F                 |G
 And I will  sing of a-ll that You have d-one.
 |1             |5                  |17
-|C             |G                  |C7
+|C             |G                  |C7            |F
  -A joy that kn-ows no limit, a l-ightness in my spirit,
 |1            5        5       |1
 |C            G        G       |C

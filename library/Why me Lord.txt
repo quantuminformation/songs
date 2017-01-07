@@ -20,7 +20,7 @@ Or the ki-ndness you've sh-own.
 L-ord help me J-esus, I've wa-sted it s-o Help me
  |57       |         |1 - |17
 J-esus I kn-ow what I am    |
- |4          |             |1           |
+ |4          |             |1  y         |
 N-ow that I k-now that I've needed you s-o Help me
  |57        |               |1 - |57
 J-esus, my s-oul's in your h-and.
