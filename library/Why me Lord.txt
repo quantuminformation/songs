@@ -1,7 +1,7 @@
 Timing 3/3
 key G
 
-        4   1   57   1   57
+        4   1   5   7   1   57
 Intro - C - G - D7 - C - D7
 
 (verse 1)

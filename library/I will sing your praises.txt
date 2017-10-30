@@ -1,26 +1,31 @@
+
+
 Verse:
- Em                          D
-  |1                         |7
-   Father God I Wonder how I m-anaged
+    Em                          D
+    |1                         |7
+   F-ather God I Wonder how I m-anaged
                        |C
+                       |6
 to exist without the kn-owledge
                    |D               B7
-of Your p-arenthood and Your loving c-are
-     Em                       D
-    |1                        7
-But -ow I am Your son, I am ad-opted in Your family
+                   |7               57
+of Your p-arenthood and Your loOving c-are
+      Em                       D
+     |1                        7
+But n-ow I am Your son, I am ad-opted in Your family
     C 
 and I can never be alone
-        D                 B7
-'cause Father God You're there beside me
+         |D                 B7
+         |7                 57
+'cause F-ather God You're there beside me
 
 Chorus:
- Em     C
-|1
- I will sing Your praises
- D       G
+ Em       C
+|1        6
+ I will s-ing Your praises
+ D        G
 |7
- I will sing Your praises
+ I will s-ing Your praises
  Em      Am
 |1      4
  I will sing your praises
@@ -30,9 +35,9 @@ Chorus:
  Em     C
 |1
  I will sing Your praises
- D       G
+ D        G
 |7
- I will sing Your praises
+ I will s-ing Your praises
  Em      Am
  I will sing your praises
  D         Em
