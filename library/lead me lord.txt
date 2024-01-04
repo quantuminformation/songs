@@ -1,114 +1,115 @@
-Lead Me Lord
-by Gary Valenciano
-
-tabbed by Benjie Jiao
-
+Ab
 
 [Verse 1]
-
-         G
-Lead me Lord
-        D9/B                               C
-Lead me by the hand and make me face the rising sun
-        Am                  D7                 Bm
-Comfort me through all the pain that life may bring
-           B                      Em
-There's no other hope that I can lean upon
-         Am
-Lead me Lord
-         D7
-Lead me all my life
+          1
+         |Ab
+Lead me L-ord
+          5/6                                4
+         |Eb9/C                               Db
+Lead me b-y the hand and help me face the rising sun
+        2                   Eb7
+        Bbm                 5⁷                  |Cm
+Comfort me through all the pain that life may br-ing
+           C                      Fm
+There's no other hope that I can l-ean upon
+          Bbm
+Lead me L-ord
+         |2            D⁷ Dsus d&
+Lead me a-ll my life
 
 
 [Verse 2]
 
-        G
-Walk by me
-        D9/B                         C
-Walk by me across the lonely road of everyday
-        Am                D                Bm
-Take my arms and let your hand show me the way
-B                           Em
-Show the way to live inside your love
-        Am
-Lead me Lord
-D
+          1
+         |Ab
+Walk by m-e
+         5/6                                4
+        |Eb9/C                               Db
+Walk by m-e across the lonely road that I may face
+          2                   Eb7
+         |Bbm                 5⁷                 Cm
+Take my a-rms and let your hand show me the way
+ |C                       |Fm
+S-how the way to live insi-de your heart
+        A#m
+all my days
+D#
 All my life
 
 
 [Chorus]
 
-C   D      G
+D♭   D#      G#
 You are my life
-           C            G
+           C#            G#
 You're the lamb upon my feet
-        C                D          G
+        C#                D#          G#
 All the time, my Lord, I need you there
-C    D      G
+C#    D#      G#
 You are my life
-   C           G
+   C#           G#
 I cannot live alone
-        C            D       Bm
+        C#            D#       Cm
 Let me stay by your guiding love
-Em             Am
+Fm             A#m
 All through my life
-D7        G - D
+D#7        G# - D#
 Lead me Lord
 
 
 [Verse 3]
 
-G
+G#
 Lead me Lord
-      D9/B                         C
-Even though at times I'd rather go along my way
-         Am             D
+      D#9/C                         C#
+Even though at times I'd rather go alone my way
+         A#m             D#
 Help me take the right direction
-           Bm
+           Cm
 Take your road
-B                               Em
+C                               Fm
 Lead me Lord and never leave my side
-       Am           D7
+       A#m           D#7
 All my days, all my life
 
 
 [Chorus]
 
-C   D      G
+C#   D#      G#
 You are my life
-           C            G
+           C#            G#
 You're the lamb upon my feet
-        C                D          G
+        C#                D#          G#
 All the time, my Lord, I need you there
-C    D      G
+C#    D#      G#
 You are my life
-   C           G
+   C#           G#
 I cannot live alone
-        C            D       Bm
+        C#            D#       Cm
 Let me stay by your guiding love
-Em             Am
+Fm             A#m
 All through my life
 
-E7
+F7
 
 
-D    E      A
+D#    F      A#
 You are my life
-            E            A
+            F            A#
 You're the lamb upon my feet
-        D                 E       A
+        D#                 F       A#
 All the time, my Lord, I need you there
-D    E      A
+D#    F      A#
 You are my life
-    E          A
+    F          A#
 I cannot live alone
-        D             E      C#m
+        D#             F      Dm
 Let me stay by your guiding love
-F#m            Bm
+Gm            Cm
 All through my life
-               C#m
+               Dm
 All through my days
-             D
+             D#
 Lead me, oh Lord
-E      A
+F      A#
 All my life

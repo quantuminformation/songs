@@ -6,7 +6,7 @@ VERSE:
     |Dm         |Bbmaj7    |Gm      |Dm   C
  All honour, all glory, all power to You;
      III        IM7        VI          III       )
-     Dm         Bbmaj7     Gm          Dm
+    |Dm         |Bbmaj7    |Gm      |Dm
  All honour, all glory, all power to You.
 
  CHORUS:
@@ -16,11 +16,13 @@ VERSE:
           7/3         2    47
          |C/E       |F    A7
  precious Jesus, our Saviour;
-     |Bb          C
+     |Bb        |C
  Holy Spirit, we wait on You,
      |Bb        |C
  Holy Spirit, we wait on You.
      |Gm7       |Dm    C
  Holy Spirit, we wait on You
-    |Dm  |C   |Dm C Bb
+    |Dm  |C   |Dm | C
  for fire, for fire.
+
+ https://www.youtube.com/watch?v=nHOM-hOi7uU

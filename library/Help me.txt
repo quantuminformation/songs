@@ -6,7 +6,6 @@
 
     |D              |D            |A
      Lord, help me w-alk another m-ile... just one more mile
-
     |A            A            |D   |
      -I'm tired of walking all al-one
 
@@ -22,19 +21,20 @@
       ~I never thought I n-eeded help bef-ore
      |A                                   |D   |
       -I thought that I could get by by mys-elf
-     |G                         |          |D
+     |G                         |          |D  |
       ~Now I know I just can't t-ake it anym-ore
-    |A [tacet]
-     With a humble heart, on bended knee, I'm begging you pl-ease
+    |A [tacet]                                 |
+     With a humble heart, on bended knee, I'm b-egging you pl-ease
      D
      Help me.
 <page break>
            |D                               |A
      Come d-own from your golden throne to m-e, lowly me
+         |A            A            |D   |
      I need to feel the tough of your tender h-and
-        |
+              |D              |             |A            |
      Rem-ove the chains of darkness and let me s-ee, Lord, let me see
-
+    |A                    A                  |D |
      Just wh-ere I fit into your m-aster plan.
 
 
