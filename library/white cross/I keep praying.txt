@@ -11,7 +11,7 @@ Intro Gm - F x4
 
 |G#            |Bb                |Cm                |Bb
  ~When I come t-o the place that m-akes me bend my kn-ees,
-|G#            |Bb          |F                  |G
+|G#m            |Bb         |F                  |G
  ~I know I've g-ot to stay i-n your presence unt-il I'm free.
 
 backing vocals
@@ -25,7 +25,7 @@ backing vocals
  -'cause I know in my he-art that your power is r-eal.
 
 Gm              |F
-Days go by and p-eople are hurting.
+~Days go by and p-eople are hurting.
 Gm                 |F
 Lost in sin, they n-eed to see you.
 |Gm              |F
@@ -33,9 +33,9 @@ Lost in sin, they n-eed to see you.
 |Gm                |F
  If only we would r-each up to you.
 
-G#          Bb                |Cm                      Bb
+G#m         Bb                |Cm                      Bb
 When I come to the place that m-akes me bend my knee,
-G#            |Bb           F                    G
+G#m           |Bb           F                    G
 It's then I re-alise that you're the one that sets us free.
 
 |Dm                        |Am
@@ -46,13 +46,13 @@ It's then I re-alise that you're the one that sets us free.
  -I keep praying and I'll n-ever give up,
 |C                      |G   	                |Dm
  -'cause I know in my he-art that your power is r-eal.
-   |Am                      |G
+   |Am                      |G |
 I k-now in my heart, Yes I k-now that it´s real
 
 solo:      Am, C, Am - F - D,
            Am, C, Am - D - F
 
-G#          Bb                Cm                      Bb
+G#m          Bb                Cm                      Bb
 When I come to the place that makes me bend my knee,
 G#          Bb           F                    G
 I know I've got to stay in your presence until I'm free.
@@ -74,3 +74,5 @@ Em                      Bm
 I keep praying and I´ll never give up.
 D                    A
 You're the one that brings a new day.
+
+em sol
